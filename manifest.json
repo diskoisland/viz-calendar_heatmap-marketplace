@@ -1,0 +1,9 @@
+﻿{
+  "name": "Calendar Heatmap Visualization",
+  "packageUrl": "https://diskoisland.github.io/viz-calendar_heatmap-marketplace/bundle.js",
+  "components": [{
+    "id": "calendar_heatmap",
+    "label": "Calendar Heatmap",
+    "scriptUrl": "https://diskoisland.github.io/viz-calendar_heatmap-marketplace/bundle.js"
+  }]
+}
